@@ -1,2 +1,2 @@
-# React-Redux-learn
+# Ornage 8th project
  about learn Redux
